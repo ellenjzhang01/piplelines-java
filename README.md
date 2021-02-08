@@ -1,5 +1,6 @@
 
 # Contributing
+[![Build Status](https://dev.azure.com/EZhang0734/TestDevops/_apis/build/status/ellenjzhang01.piplelines-java?branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)](https://dev.azure.com/EZhang0734/TestDevops/_build/latest?definitionId=1&branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
